@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1742577722 source:c:\users\aluno\onedrive\Área de trabalho\para portifolio\binary tree\driver.cpp
+	"Tree.h"
+	<iostream>
+	<string>
+
+1742577585 c:\users\aluno\onedrive\Área de trabalho\para portifolio\binary tree\tree.h
+	<string>
+
+1742577555 source:c:\users\aluno\onedrive\Área de trabalho\para portifolio\binary tree\tree.cpp
+	"Tree.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+

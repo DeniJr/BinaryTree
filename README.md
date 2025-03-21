@@ -1,0 +1,9 @@
+# Projeto Árvore Binária
+
+Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados do Centro Universitário Barão de Mauá, com o objetivo de explorar a construção e manipulação de árvores binárias em C++. A proposta consiste na implementação de um programa capaz de processar arquivos no formato .tree, interpretando suas informações para estruturar uma árvore de decisão e, posteriormente, exibir suas características estruturais.
+
+A lógica do programa inicia-se com a leitura do arquivo de entrada, onde cada linha contém um nó pai e dois filhos, separados por espaço. O primeiro nó identificado no arquivo torna-se a raiz da árvore, e os demais são inseridos recursivamente, conforme a hierarquia definida no arquivo. Esse processo constrói a estrutura binária, respeitando a lógica de organização dos nós.
+
+Uma vez que a árvore esteja completamente construída, o programa realiza um percurso em pré-ordem, permitindo exibir cada nó juntamente com o número de filhos e sua posição relativa na estrutura. Além disso, a implementação assegura que a saída siga um formato específico, destacando quais nós possuem filhos à esquerda, à direita ou em ambas as direções, bem como quais são folhas.
+
+O principal objetivo deste trabalho é proporcionar aos alunos uma experiência prática no manuseio de estruturas dinâmicas de dados, reforçando conceitos fundamentais da disciplina, como alocação dinâmica de memória, manipulação de arquivos em C++ e recursividade. Assim, ao desenvolver essa solução, os estudantes aprofundam seus conhecimentos na criação e exploração de árvores binárias, habilidades essenciais para problemas computacionais que envolvem hierarquias e decisões estruturadas.
